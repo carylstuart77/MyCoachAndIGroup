@@ -1,14 +1,16 @@
 ### My Coach And I
 
-The application My Coach And I _(MCAI)_ provides a Coach the ability to provide clients with the tools 
-they need to reach their goals.  
 
-MCAI is developed to be easy to access, providing a specific guide and easy to follow.  
-would be able to provide clients with a _specific plan_, tailored for 
-their needs.  The **greatest benefit* is the client can easily follow the plan developed through
-MCAI this application will be running on their phone.  It will also help by being able to look at the 
-logged data in order to monitor how they are progressing.  
+The application My Coach And I _(MCAI)_ provides a gym Coach the ability to provide clients with the tools 
+they need to attain their goals.  
 
+MCAI's specific capabilities include:
+* Easy access, since it is installed and ran on the clients personal phone.  
+* Both the coach and the client will find it easy to use because each selection has drop down menus 
+  to choose from. 
+* The coach can catter a _specif plan_ for his client.
+* Both the coach and client can keep track of the specific plan's changes, like lifting weiht increase
+  or decrease.  
 
 Next line needs a space between. Can use HTML tags.
 
